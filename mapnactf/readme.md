@@ -15,3 +15,5 @@ Writeups:
 4. [Crypto - What Next](what-next/readme.md)
 
 5. [Crypto - What Next 2](what-next-2/readme.md)
+
+6. [Crypto - Be Fast](be-fast/readme.md)
